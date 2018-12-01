@@ -1,3 +1,3 @@
 <?php 
-echo "Hello world!"; 
+echo "Wesh Soso bien ou mal"; 
 ?>
