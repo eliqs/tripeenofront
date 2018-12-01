@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow (1)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="99.9996871%" y1="100%" x2="-8.52218321%" y2="10.3121108%" id="linearGradient-1">
+            <stop stop-color="#FFB75E" offset="0%"></stop>
+            <stop stop-color="#ED8F03" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-478.000000, -591.000000)">
+            <g id="arrow-(1)" transform="translate(478.000000, 591.000000)">
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="16.5" cy="16.5" r="15.9783"></circle>
+                <path d="M12.1484,9.4274 C11.1839,8.8892 9.9656,9.2348 9.4274,10.1993 C8.8891,11.1639 9.2347,12.3821 10.1992,12.9204 L12.1484,9.4274 Z M21.826,17.1182 L22.6345,18.9475 C23.3281,18.641 23.7887,17.9685 23.8238,17.211 C23.859,16.4535 23.4628,15.7413 22.8006,15.3717 L21.826,17.1182 Z M10.3653,19.9968 C9.355,20.4433 8.898,21.6243 9.3445,22.6346 C9.791,23.6449 10.972,24.1019 11.9823,23.6554 L10.3653,19.9968 Z M10.1992,12.9204 L20.8514,18.8647 L22.8006,15.3717 L12.1484,9.4274 L10.1992,12.9204 Z M21.0175,15.2889 L10.3653,19.9968 L11.9823,23.6554 L22.6345,18.9475 L21.0175,15.2889 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
