@@ -40,8 +40,8 @@ body {
   background: -webkit-linear-gradient(45deg, #C02425, #F0CB35);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-
 }
+
 .conditions{
   font-family: rubik;
   font-size: 12px;
@@ -168,15 +168,21 @@ input[type="password"]:focus{
 }
 .navbar{
   background-color: #D05C1A;
+  height: 45px;
 }
 .navbar-text {
-  font-family: arial rounded MT Bold;
+  font-family: varela round;
   font-size: 16px;
   color:#fff;
+  padding:0;
 }
 .navbar a:hover{
   text-decoration: none;
   color:#fff;
+}
+.navbar img{
+  width: 20px;
+  height: 20px;
 }
 
 /* Extra small devices (phones, 600px and down) */
@@ -196,7 +202,7 @@ input[type="password"]:focus{
     display:none;
   }
   h5{
-margin-top: 50px;
+    margin-top: 50px;
   }
  }
 @media (min-width: 0px) and (max-width: 568px) { 
