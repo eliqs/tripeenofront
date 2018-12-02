@@ -43,14 +43,14 @@
 	<div class="row justify-content-center align-items-center">
   
     <h1 class="title">Bienvenue sur Tripeeno</h1>
-    <h5>Inscrivez vous avec <a href="">Facebook</a> ou <a href="">Google</a></h5>
+    <h5>Inscrivez-vous avec <a href="">Facebook</a> ou <a href="">Google</a></h5>
 
 	</div>
 
-    <div class="row justify-content-center align-items-center">
+    <div class="row justify-content-center align-items-center h-100">
 
         <div class="col col-sm-6 col-md-6 col-lg-4 col-xl-3">
-           
+           <h6>ou</h6>
             <form action="">
             	<div class=form-signin>
                 <div class="form-group">
@@ -71,15 +71,21 @@
                   <div class="form-group">
                       <input class="form-control form-control-lg" placeholder="Confirmation mot de passe" type="password">
                   </div>
-              
-                  <div>
-                    <input type="radio" id="homme"
-                     name="gender" value="Homme">
-                    <label for="homme">Homme</label>
 
-                    <input type="radio" id="Femme"
-                     name="gender" value="Femme">
-                    <label for="Femme">Femme</label>
+                  <div class="form-group">
+                      <input class="form-control form-control-lg" placeholder="Date de naissance" type="date" value="Date de naissance"> 
+                  </div>
+                                
+                  <div class="control-group">
+                      <label class="control control-radio"> Homme
+                        <input type="radio" name="radio"/>
+                        <div class="control_indicator"></div>
+                      </label>
+        
+                      <label class="control control-radio"> Femme
+                        <input type="radio" name="radio" />
+                        <div class="control_indicator"></div>
+                      </label>
                   </div>
 
 	            <p class="conditions">En cliquant sur Inscription, vous acceptez nos <a href="">Conditions générales.</a> 
