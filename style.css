@@ -133,14 +133,17 @@ input[type="password"]:focus{
   cursor: "pointer";
   margin: 0 auto;
 }
+
 .signup{
-    text-align: center;
+    position:fixed;
+    bottom:35px;
+    /*text-align: center;*/
     cursor:pointer;
-    margin-top: 50px;
+    /*margin-top: 50px;*/
 }
 .signup a {
-  margin-bottom: 50px;
-  margin-right: 10px;
+  /*margin-bottom: 50px;
+  margin-right: 10px;*/
   font-family: Nunito;
   font-size: 24px;
   font-weight: bold;
