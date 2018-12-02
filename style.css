@@ -204,6 +204,16 @@ input[type="password"]:focus{
   h5{
     margin-top: 50px;
   }
+  .signup-page {
+    background:none;
+  }
+  .login-page {
+    background:none;
+  }
+  .signup a{
+    color:#D05C1A;
+    text-shadow: none;
+  }
  }
 @media (min-width: 0px) and (max-width: 568px) { 
   h5{
