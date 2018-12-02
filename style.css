@@ -166,6 +166,19 @@ input[type="password"]:focus{
   height: auto; 
   display: block;
 }
+.navbar{
+  background-color: #D05C1A;
+}
+.navbar-text {
+  font-family: arial rounded MT Bold;
+  font-size: 16px;
+  color:#fff;
+}
+.navbar a:hover{
+  text-decoration: none;
+  color:#fff;
+}
+
 /* Extra small devices (phones, 600px and down) */
 @media (min-width: 768px) {
   h1{
@@ -174,14 +187,21 @@ input[type="password"]:focus{
   h5{
     display:none;
   }
+  .navbar{
+    display:none;
+  }
 }
 @media (min-width: 0px) and (max-width: 767px) { 
   h1{
     display:none;
+  }
+  h5{
+margin-top: 50px;
   }
  }
 @media (min-width: 0px) and (max-width: 568px) { 
   h5{
     font-size: 16px;
   }
+
  }
