@@ -137,6 +137,7 @@ input[type="password"]:focus{
 .signup{
     position:relative;
     bottom:-30px;
+    margin: 0;
     /*text-align: center;*/
     cursor:pointer;
     /*margin-top: 50px;*/
