@@ -1,3 +1,1 @@
-<?php 
-echo "Wesh Soso bien ou mal"; 
-?>
+<?php include_once("home.html"); ?>
